@@ -1,0 +1,1 @@
+this projects primarly created for secure shering and storing of  files , and also  contain   chat space on which registered person find freinds  and sends freinds request then after they  can chat  over there   securely. this project mainly usable for private companies to share  and   discuss things  only in between the member that  company.
